@@ -1,0 +1,25 @@
+# IDE folder
+.idea/
+.vscode/
+
+# Linux swap file
+*.swp
+*.DS_Store
+
+# Python cache
+__pycache__/
+/utils/__pycache__/
+
+# Localized data
+logs/
+conf/
+result/
+tokens/
+sync.sh
+test*
+
+# Go program
+bin/
+
+# Backups
+bak_*/
